@@ -1,0 +1,6 @@
+Application of learning 2.9.
+
+you are developing a web application that allows users to submit a form with their personal
+information. The form includes fields like name, email, and age. You're using JavaScript for
+client-side validation, and you are tasked to implement error handling to provide a better user
+experience.
